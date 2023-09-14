@@ -143,5 +143,5 @@ storiyan.addEventListener("click", function (dets) {
     
     setTimeout(function(){
         document.querySelector("#fullScreen").style.display = "none"
-    },1500)
+    },2500)
 });
